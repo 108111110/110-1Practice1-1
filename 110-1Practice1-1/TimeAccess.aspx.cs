@@ -11,7 +11,7 @@ namespace _110_1Practice1_1
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            .....
         }
     }
 }
